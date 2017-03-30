@@ -1,0 +1,19 @@
+package com.forever.behaviorPattern.interpretPattern;
+
+/**
+ * Created by forever on 2017-3-27.
+ */
+public class AndExpression implements Expression {
+    Expression expression1;
+    Expression expression2;
+
+    public AndExpression(Expression expression1, Expression expression2) {
+        this.expression1 = expression1;
+        this.expression2 = expression2;
+    }
+
+    @Override
+    public boolean interpret(String content) {
+        return expression1.interpret(content) && expression2.interpret(content);
+    }
+}
