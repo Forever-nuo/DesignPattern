@@ -20,6 +20,6 @@ public class LazySingleObject {
     }
 
     public void showMsg() {
-        System.out.println("我是恶汉模式" + age++);
+        System.out.println("我是懒汉模式" + age++);
     }
 }

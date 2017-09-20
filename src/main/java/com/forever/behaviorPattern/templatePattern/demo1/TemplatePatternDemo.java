@@ -1,4 +1,4 @@
-package com.forever.behaviorPattern.templatePattern;
+package com.forever.behaviorPattern.templatePattern.demo1;
 
 /**
  * Created by forever on 2017-3-29.

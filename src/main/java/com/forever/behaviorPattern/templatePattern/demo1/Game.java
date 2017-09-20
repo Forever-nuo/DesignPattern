@@ -1,4 +1,4 @@
-package com.forever.behaviorPattern.templatePattern;
+package com.forever.behaviorPattern.templatePattern.demo1;
 
 /**
  * 抽象类
