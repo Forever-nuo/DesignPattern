@@ -1,4 +1,4 @@
-package com.forever.structuralPattern.adapterPattern;
+package com.forever.structuralPattern.adapterPattern.adapterDemo1;
 
 /**
  * 接口的实现类

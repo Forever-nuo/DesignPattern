@@ -1,4 +1,4 @@
-package com.forever.structuralPattern.adapterPattern;
+package com.forever.structuralPattern.adapterPattern.adapterDemo1;
 
 /**
  * Created by forever on 2017-3-23.
